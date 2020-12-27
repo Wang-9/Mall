@@ -2,7 +2,7 @@
 
 1. Project setup
 
-cd vue-store
+cd store
 npm install
 
 2. Compiles and hot-reloads for development
