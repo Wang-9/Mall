@@ -2,7 +2,7 @@
 
 1. Project setup
 
-cd store
+cd Mall-master
 npm install
 
 2. Compiles and hot-reloads for development
